@@ -1,0 +1,10 @@
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.Properties.Resources.resources
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.csproj.GenerateResource.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\bin\Debug\GavejoPrograma.exe.config
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\bin\Debug\GavejoPrograma.exe
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\bin\Debug\GavejoPrograma.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.exe
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\GavejoPrograma\GavejoPrograma\obj\Debug\GavejoPrograma.ControlPanel.resources
