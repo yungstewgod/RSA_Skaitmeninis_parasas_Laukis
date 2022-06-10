@@ -1,0 +1,10 @@
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\bin\Debug\SiuntimoPrograma.exe.config
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\bin\Debug\SiuntimoPrograma.exe
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\bin\Debug\SiuntimoPrograma.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.Properties.Resources.resources
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.csproj.GenerateResource.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.exe
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\SiuntimoPrograma\SiuntimoPrograma\obj\Debug\SiuntimoPrograma.SiuntimoMeniu.resources
