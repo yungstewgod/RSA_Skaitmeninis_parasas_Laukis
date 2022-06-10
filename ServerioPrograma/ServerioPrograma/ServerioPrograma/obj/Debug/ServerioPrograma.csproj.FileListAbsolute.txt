@@ -1,0 +1,11 @@
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\bin\Debug\ServerioPrograma.exe.config
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\bin\Debug\ServerioPrograma.exe
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\bin\Debug\ServerioPrograma.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.Properties.Resources.resources
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.csproj.GenerateResource.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.exe
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.Serveris.resources
+C:\Users\Vartotojas\Documents\C# programavimas\Saugumo_5_praktinis\ServerioPrograma\ServerioPrograma\ServerioPrograma\obj\Debug\ServerioPrograma.ControlPanel.resources
